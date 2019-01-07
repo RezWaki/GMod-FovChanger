@@ -1,0 +1,16 @@
+﻿Построение начато 07.01.2019 12:12:36.
+     1>Проект "c:\Users\Администратор\Documents\Visual Studio 2012\Projects\fov_changer\fov_changer\fov_changer.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AIC:\Windows\Microsoft.NET\Framework\v2.0.50727\ /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Data.dll /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Drawing.dll /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Windows.Forms.dll /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll /analyze- /errorReport:prompt /d1clr:nostdlib MyForm.cpp
+         MyForm.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\fov_changer.res" fov_changer.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\Users\Администратор\Documents\Visual Studio 2012\Projects\fov_changer\Debug\fov_changer.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\fov_changer.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\Users\Администратор\Documents\Visual Studio 2012\Projects\fov_changer\Debug\fov_changer.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\fov_changer.res
+         Debug\MyForm.obj
+         fov_changer.vcxproj -> c:\Users\Администратор\Documents\Visual Studio 2012\Projects\fov_changer\Debug\fov_changer.exe
+     1>Построение проекта "c:\Users\Администратор\Documents\Visual Studio 2012\Projects\fov_changer\fov_changer\fov_changer.vcxproj" завершено (целевые объекты Rebuild).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.91
